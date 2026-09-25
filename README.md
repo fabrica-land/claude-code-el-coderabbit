@@ -102,3 +102,7 @@ After processing each notification, re-subscribe with the `TIMESTAMP` from the o
 ## License
 
 MIT
+
+## License
+
+MIT © Fabrica, Inc. — see [LICENSE](LICENSE). Created and maintained by Tim Garthwaite.
